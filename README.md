@@ -237,7 +237,7 @@ Prevents:
 
 ## Screenshots
 
-Deployment, commit phase, reveal phase, and winner output are included in `/screenshots`.
+Deployment, hashing, commit phase, reveal phase, and winner output are included in `/screenshots`.
 
 ---
 
