@@ -243,6 +243,6 @@ Deployment, hashing, commit phase, reveal phase, and winner output are included 
 
 ## Author
 
-Name: Aarush Kashyap
-Course: Applications of Blockchain Technology
+Name: Aarush Kashyap  
+Course: Applications of Blockchain Technology  
 Assignment: Blind Auction (Commit-Reveal)
